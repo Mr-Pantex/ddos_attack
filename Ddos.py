@@ -1,7 +1,7 @@
 
 #!usr/bin/python2.7
 # -*- coding: UTF-8 -*-
-#Created By Tegar
+#Created By Mr-Pantex
 
 # Silahkan Modifikasi Lagi Sendiri #
 
